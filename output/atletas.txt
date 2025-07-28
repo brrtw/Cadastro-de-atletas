@@ -1,0 +1,11 @@
+Francisco;Oposto;25
+Andersson;Central;28
+Denisson Ronei;Libero;27
+Ewerton Carlos;Central;22
+Fabricio;Levantador;32
+Francisco de Assis;Oposto;24
+Joao Neto;Ponteiro;25
+Pedro Arthur;Oposto;30
+Pedro Neto;Ponteiro;29
+Ryam;Levantador;23
+Tonny;Levantador;29
